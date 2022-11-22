@@ -1,0 +1,53 @@
+[
+    {
+        "origin": "DUS",
+        "destination": "ALA",
+        "departureDate": "2017-01-13",
+        "returnDate": "2016-01-14",
+        "price": "288$",
+        "uuid": "SA00003"
+    }, {
+        "origin": "DUS",
+        "destination": "ALA",
+        "departureDate": "2017-01-13",
+        "returnDate": "2016-01-14",
+        "price": "288$",
+        "uuid": "SA00003"
+    }, {
+        "origin": "DUS",
+        "destination": "ALA",
+        "departureDate": "2017-01-13",
+        "returnDate": "2016-01-14",
+        "price": "288$",
+        "uuid": "SA00003"
+    },{
+        "origin": "DUS",
+        "destination": "ALA",
+        "departureDate": "2017-01-13",
+        "returnDate": "2016-01-14",
+        "price": "288$",
+        "uuid": "SA00003"
+    },{
+        "origin": "DUS",
+        "destination": "ALA",
+        "departureDate": "2017-01-13",
+        "returnDate": "2016-01-14",
+        "price": "288$",
+        "uuid": "SA00003"
+    },{
+        "origin": "DUS",
+        "destination": "ALA",
+        "departureDate": "2017-01-13",
+        "returnDate": "2016-01-14",
+        "price": "288$",
+        "uuid": "SA00003"
+    },
+    {
+        "origin": "DUS",
+        "destination": "ALA",
+        "departureDate": "2017-01-13",
+        "returnDate": "2016-01-14",
+        "price": "288$",
+        "uuid": "SA00003"
+    }
+]
